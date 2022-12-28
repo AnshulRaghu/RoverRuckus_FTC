@@ -11,7 +11,7 @@ import com.qualcomm.robotcore.hardware.DistanceSensor;
 /**
  * This class represents the robot of Hadron Knights.
  * <p>
- * Created by Rahul V, Arko, Rahul D, Aarush on 8/19/2017.
+ * Created by Rahul V, Arko, Anshul, Rahul D, Aarush on 8/19/2017.
  */
 
 public class HkRobot
