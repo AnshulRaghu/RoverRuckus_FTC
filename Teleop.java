@@ -8,7 +8,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 /**
  * This class controls the Hadron Knights robot during the driver controlled part of the game.
  * <p>
- * Created by Rahul V, Arko, Rahul D, Aarush on 8/19/2017.
+ * Created by Rahul V, Arko, Anshul, Rahul D, Aarush on 8/19/2017.
  */
 @TeleOp(name = "TeleOp", group = "HKTeleOp")
 
